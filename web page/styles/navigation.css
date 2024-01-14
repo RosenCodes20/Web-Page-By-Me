@@ -1,0 +1,13 @@
+.main-nav{
+        display: block;
+        flex-grow: 1;
+}
+.main-nav ul{
+    display: flex;
+}
+.main-nav li{
+    display: block;
+}
+.main-nav li:last-child{
+    margin-left: auto;
+}

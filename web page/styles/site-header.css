@@ -1,0 +1,33 @@
+.site-header a{
+    text-decoration: none;
+}
+
+
+.site-header{
+    display: flex;
+    border-bottom:  1px solid #1E2D3D;
+
+}
+.site-header .site-branding,
+.main-nav li:not(:last-child) a{
+    border-right: 1px solid #1E2D3D;
+}
+.main-nav li:last-child{
+    border-left: 1px solid #1E2D3D;
+}
+.site-branding .site-title a{
+    padding-right: 5em;
+}
+
+.site-title{
+    font-size: 1em;
+    font-weight: normal;
+    margin: 0;
+}
+.site-title a,
+.main-nav a{
+    display: block;
+    padding: 1em 1.3em;
+    line-height: 1;
+    
+}

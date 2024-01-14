@@ -1,0 +1,33 @@
+section.introduction{
+    padding: 5em;
+}
+.greeting{
+    color: #FFF;
+
+}
+.greeting .name{
+    color: #FFF;
+    display: block;
+    font-size: 3em;
+    line-height: 1;
+
+}
+.job-title{
+    font-size: 1.8em;
+    color:#4D5BCE;
+    padding-bottom: 3em;
+
+}
+
+.github-profile .const{
+color: #4D5BCE;
+}
+.github-profile .let{
+color: #43D9AD;
+}
+.github-profile .equals{
+color: #FFF;
+}
+.github-profile .value{
+color: #E99287;
+}
